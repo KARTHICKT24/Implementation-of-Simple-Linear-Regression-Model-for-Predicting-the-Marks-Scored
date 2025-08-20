@@ -95,10 +95,8 @@ print("Root Mean Square Error = ",rmse)
 ## Output:
 ## HEAD AND TAIL VALUES
 <img width="233" height="312" alt="2 1" src="https://github.com/user-attachments/assets/bc450e23-a51e-4fed-9367-5fe23ba2a8b4" />
-## x values
-<img width="246" height="563" alt="2 3" src="https://github.com/user-attachments/assets/1b53c0e3-3be0-49c3-99b0-b787a97cb842" />
-## y values
-<img width="703" height="58" alt="2 4" src="https://github.com/user-attachments/assets/07e676fb-72de-48c0-b644-1490dcc51ffb" />
+## x values nad y values
+<img width="727" height="611" alt="2 2" src="https://github.com/user-attachments/assets/6bc1d3d5-89b7-49e5-a348-2c83ee6d31b4" />
 ## x predicted values
 <img width="695" height="42" alt="2 5" src="https://github.com/user-attachments/assets/eda751be-a4ef-4908-9c27-1559895d6d93" />
 ## y predicted values
