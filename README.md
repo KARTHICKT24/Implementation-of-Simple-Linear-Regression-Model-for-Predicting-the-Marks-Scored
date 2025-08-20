@@ -105,8 +105,10 @@ print("Root Mean Square Error = ",rmse)
 ## y predicted values
 <img width="331" height="30" alt="2 6" src="https://github.com/user-attachments/assets/0cc05f96-38d5-4e26-bc42-d7cfbdb3e1fc" /> 
 
+## TRAINING SET
 <img width="741" height="602" alt="2 7" src="https://github.com/user-attachments/assets/e38b6225-db43-4619-9b74-61011626bee0" />
 
+## TEST SET
 <img width="737" height="606" alt="2 8" src="https://github.com/user-attachments/assets/d7aa77b3-3d00-41a1-b90c-3d25ec0fb8f5" />
 
 <img width="432" height="172" alt="2 9" src="https://github.com/user-attachments/assets/4ebbaea9-6abe-4736-ac7c-e08690f80a5b" />
