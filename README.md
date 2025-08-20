@@ -93,21 +93,22 @@ print("Root Mean Square Error = ",rmse)
 
 
 ## Output:
-# HEAD
 <img width="186" height="133" alt="2 1" src="https://github.com/user-attachments/assets/7f942887-532e-4b36-aa99-f8c956b9f8e3" />
-# TAIL
+
 <img width="191" height="141" alt="2 2" src="https://github.com/user-attachments/assets/feb48f95-b24a-4734-9951-99c5976c8bb9" />
-# x values
+
 <img width="246" height="563" alt="2 3" src="https://github.com/user-attachments/assets/1b53c0e3-3be0-49c3-99b0-b787a97cb842" />
-# y values
+
 <img width="703" height="58" alt="2 4" src="https://github.com/user-attachments/assets/07e676fb-72de-48c0-b644-1490dcc51ffb" />
-# y_pred values
+
 <img width="695" height="42" alt="2 5" src="https://github.com/user-attachments/assets/eda751be-a4ef-4908-9c27-1559895d6d93" />
-# y_test values
-<img width="331" height="30" alt="2 6" src="https://github.com/user-attachments/assets/0cc05f96-38d5-4e26-bc42-d7cfbdb3e1fc" />
+
+<img width="331" height="30" alt="2 6" src="https://github.com/user-attachments/assets/0cc05f96-38d5-4e26-bc42-d7cfbdb3e1fc" /> 
 
 <img width="741" height="602" alt="2 7" src="https://github.com/user-attachments/assets/e38b6225-db43-4619-9b74-61011626bee0" />
+
 <img width="737" height="606" alt="2 8" src="https://github.com/user-attachments/assets/d7aa77b3-3d00-41a1-b90c-3d25ec0fb8f5" />
+
 <img width="432" height="172" alt="2 9" src="https://github.com/user-attachments/assets/4ebbaea9-6abe-4736-ac7c-e08690f80a5b" />
 
 
