@@ -93,10 +93,8 @@ print("Root Mean Square Error = ",rmse)
 
 
 ## Output:
-## HEAD
-<img width="186" height="133" alt="2 1" src="https://github.com/user-attachments/assets/7f942887-532e-4b36-aa99-f8c956b9f8e3" />
-## TAIL
-<img width="191" height="141" alt="2 2" src="https://github.com/user-attachments/assets/feb48f95-b24a-4734-9951-99c5976c8bb9" />
+## HEAD AND TAIL VALUES
+<img width="233" height="312" alt="2 1" src="https://github.com/user-attachments/assets/bc450e23-a51e-4fed-9367-5fe23ba2a8b4" />
 ## x values
 <img width="246" height="563" alt="2 3" src="https://github.com/user-attachments/assets/1b53c0e3-3be0-49c3-99b0-b787a97cb842" />
 ## y values
